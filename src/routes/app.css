@@ -1,0 +1,37 @@
+header {
+  
+  text-align: center;
+  font-size: 1rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  
+  
+
+}
+
+body {
+  background: linear-gradient(to right, #f39242, #90C3D4);
+  overflow-y: hidden;
+  overflow-x: hidden;
+  display:block;
+ 
+}
+
+
+
+
+footer {
+  padding: 1rem;
+  background-color: white;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+
+
