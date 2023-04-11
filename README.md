@@ -2,4 +2,4 @@
 
 Author: Sidney Lemon
 
-Live Site Link:
+Live Site Link: https://cpnt265-roster.vercel.app/
